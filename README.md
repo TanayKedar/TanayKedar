@@ -43,7 +43,7 @@
 
 ## 📬 Connect With Me
 <p align="left">
-  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/tanay-kedar-b1ba7a28b/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tanay-kedar-b1ba7a28b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
